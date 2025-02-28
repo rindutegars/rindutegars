@@ -9,7 +9,7 @@ I am a Software Developer and Software Quality Assurance, and accustomed to work
 
 ## Skills:
 
-#### Languages, Frameworks, and Libraries:
+#### Languages:
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;

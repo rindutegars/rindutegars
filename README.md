@@ -1,4 +1,4 @@
-### Hi there, I'm [Rindu Tegar Senjawati](https://durgeshsamariya.github.io) 👋
+### Hi there, I'm [Rindu Tegar Senjawati](https://github.com/rindutegars) 👋
 
 I am a Software Developer and Software Quality Assurance, and accustomed to working with Agile Scrum methodology. I have an interset in conducting research on signal processing with Machine Learning as the title of my thesis "Emotion Identification thourgh electroencephalogram signals using 3D CNN"
 

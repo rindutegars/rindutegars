@@ -34,6 +34,13 @@ I am a Software Developer and Software Quality Assurance, and accustomed to work
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 
+#### QA & Testing Tools:
+
+![QA Manual](https://img.shields.io/badge/QA_Manual-007ACC?style=for-the-badge&logo=testcafe&logoColor=white)&nbsp;
+![Katalon](https://img.shields.io/badge/Katalon-32CD32?style=for-the-badge&logo=katalon-studio&logoColor=white)&nbsp;
+![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apache-jmeter&logoColor=white)&nbsp;
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
+
 #### Tools and Technologies
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
